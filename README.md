@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/@alex-materniuc-cosmote" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@alex-materniuc-cosmote" height="30" width="40" /></a>
+<a href="https://codepen.io/Alex-Materniuc-Cosmote" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@alex-materniuc-cosmote" height="30" width="40" /></a>
 <a href="https://fb.com/profile.php?id=100081302980828" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alex materniuc" height="30" width="40" /></a>
 <a href="https://instagram.com/me.malex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="me.malex" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/UCSMrzMNnEGjwuhmCMJeZE_g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="alex materniuc" height="30" width="40" /></a>
