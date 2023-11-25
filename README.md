@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Materniuc Alex</h1>
 <h3 align="center">I'm a high-school student working on improving myself.</h3>
 
-<img align="right" alt="Coding" width="40" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.webp">
+<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.webp">
 
 - 💬 Ask me about **java & react**
 
@@ -23,4 +23,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=materniucalex&show_icons=true&locale=en&layout=compact" alt="materniucalex" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=materniucalex&show_icons=true&theme=dark&locale=en" alt="materniucalex" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=materniucalex&show_icons=true&theme=dark&locale=en" alt="materniucalex" /></p>
