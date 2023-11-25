@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Materniuc Alex</h1>
 <h3 align="center">I'm a high-school student working on improving myself.</h3>
 
-<img align="right" alt="Coding" width="500" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.webp">
+<img align="right" alt="Coding" width="40" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.webp">
 
 - 💬 Ask me about **java & react**
 
@@ -10,9 +10,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/@alex-materniuc-cosmote" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@alex-materniuc-cosmote" height="30" width="40" /></a>
-<a href="https://fb.com/alex materniuc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alex materniuc" height="30" width="40" /></a>
+<a href="https://fb.com/profile.php?id=100081302980828" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alex materniuc" height="30" width="40" /></a>
 <a href="https://instagram.com/me.malex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="me.malex" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/alex materniuc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="alex materniuc" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/UCSMrzMNnEGjwuhmCMJeZE_g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="alex materniuc" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
